@@ -1,5 +1,5 @@
-#Mario Alberto Ponce Vazquez
-#Registro: 20310317
+#Raul Isai Aceves rodriguez
+#Registro: 20110127
 #Materia: Inteligencia Artificial
 #Curso de Python: Capitulo 13. Eliminar elementos con remove() - Listas 4
 
